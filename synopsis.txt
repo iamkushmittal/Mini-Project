@@ -1,0 +1,29 @@
+Minor Project Synopsis Format for BTech 3rd Year Students
+GLA University, 2020
+Given below are the specifications for your synopsis (to be submitted by 20th August 2020).
+
+The synopsis, preferably, should be of about 6-8 pages.
+The content should be as brief as is sufficient enough to explain the objective and implementation of the project that the team is going to take up.
+The synopsis must include all of the following points, not necessarily in that order -
+Name / Title of the project.
+The problem statement.
+Reason for selecting the topic.
+Objectives of the project.
+Literature Survey / Feasibility Study.
+Future Scope.
+Methodology. (including a summary of the project)
+Hardware & Software to be used.
+Testing technologies to be used.
+What contribution would the project make and where?
+Scope for extension into a major project.
+Conclusion.
+The font format for the project report is to be as follows
+All sheets are to be A4 size.
+The text in all the paragraphs shall be in Times New Roman 12 Font, Regular, Justified with a line spacing of 1.15.
+The margins for a page shall be as follows: Top & Bottom: 0.8 inches; Left: 1 inch, Right: 0.5 inches
+One extra line spacing should be left in between paragraphs.
+All Chapter headings are to be centred in the Font Times New Roman 14 size Bold.
+All headings of section shall be in Times New Roman 12 Bold.
+All sub-section headings shall be in Times New Roman , size, 12, Bold, Italic.
+All minor sub-section headings shall be in Times New Roman , size, 12, Regular.
+All the references / Bibliography are to be listed at the end, arranged in the chronological order and are to be numbered 1, 2, 3……....etc.
